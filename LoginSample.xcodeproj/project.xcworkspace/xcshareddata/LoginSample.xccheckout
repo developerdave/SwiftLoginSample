@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92D4CF77-0875-4735-9259-3C6FF3A19ABE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoginSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85231CF2DA732F79FB124C40A045BBA4B0162145</key>
+		<string>github.com:developerdave/SwiftLoginSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoginSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85231CF2DA732F79FB124C40A045BBA4B0162145</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:developerdave/SwiftLoginSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85231CF2DA732F79FB124C40A045BBA4B0162145</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85231CF2DA732F79FB124C40A045BBA4B0162145</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftLoginSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
